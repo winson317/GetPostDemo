@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">使用URLConnection发送请求</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="get">发送get请求</string>
+    <string name="post">发送post请求</string>
+
+</resources>
